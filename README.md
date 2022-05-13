@@ -15,4 +15,4 @@ $ yarn start
 ```
 
 
-cron-js use path : 
+cron-js use path : src/pages/index.tsx 
